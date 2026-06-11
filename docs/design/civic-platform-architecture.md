@@ -1,6 +1,6 @@
 # Haven: Architecture
  
-*Civic infrastructure for the digital age*
+*Your life doesn't fit in your pocket*
  
 This document describes the architecture of Haven — a federated, end-to-end encrypted platform for civic communities. It captures the design’s principles, the entities and relationships that compose the system, the cryptographic and governance choices that make it distinctive, and the current state of design work.
  
