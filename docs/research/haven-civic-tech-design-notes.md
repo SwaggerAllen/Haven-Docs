@@ -1,5 +1,3 @@
-
-raw
 # Design notes from the civic-tech deep dive
  
 *Captured 2026-06-06. These are the design decisions and directions that surfaced during the civic-tech study — distinct from the [civic-tech landscape](haven-civic-tech-landscape.md), which is a map rather than a decision log. They belong with the study notes as active design directions, recorded so they aren’t lost; several need real design work and at least one (friction-as-ratchet) explicitly needs input beyond the founder. Where a note has since been adopted into the architecture or feature documents, a status line says so.*
