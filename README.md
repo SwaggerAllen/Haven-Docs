@@ -4,6 +4,8 @@
 
 Haven is a federated, end-to-end-encrypted platform built around communities rather than individual accounts — digital scaffolding for the institutions that hold civic life together. Neighborhood associations, schools, co-ops, congregations, and other real-world institutions get digital tools that fit how they actually work: in-person joining, community-defined governance, conversations no outside party can read, and no advertising or engagement optimization — structurally, not as policy. Haven is being designed in full before it is built. This repository holds the public design documentation, the research behind it, and the published writing introducing the project.
 
+**New to Haven?** [**Start here**](start-here.md) is a short orientation to the whole project — the core idea, what follows from it, and where to read next.
+
 ## The documents
 
 ### Design — `docs/design/`
@@ -51,14 +53,6 @@ Published essays introducing the project, in plain language.
 1. [The competitive ground](docs/outreach/intro-article-4-timescale.md)
 1. [Design-first methodology](docs/outreach/intro-article-5-methodology.md)
 1. [Founder succession](docs/outreach/intro-article-6-survival.md)
-
-## About Haven
-
-The diagnosis Haven starts from is that the deepest problem with today’s platforms isn’t the algorithm — it’s the unit. The individual account is the first-class thing, and the communities where people’s actual lives happen are an afterthought the software can barely see. Haven moves the unit: communities are the primary entities, with real structure — membership, roles, rules, history, governance, and even the ability to split — modeled directly rather than approximated by a page with posts on it. The app lives in your pocket like any other; the life it serves — the school, the block, the congregation, the room — doesn’t, and isn’t supposed to.
-
-A few commitments follow from that and are non-negotiable in the design. Everything inside a community is end-to-end encrypted, so no operator, advertiser, or platform company can read it — privacy is a structural property, not a setting. Joining happens in person, vouched for by an existing member, which grounds trust in real-world relationships and makes infiltration expensive in the one currency attackers can’t manufacture. Communities govern themselves under their own rules, and allied communities can recognize one another without any central authority over all of them. The business model excludes advertising, data sales, engagement optimization, and transaction fees on community commerce — and the organizational structure (a public benefit corporation building the platform, with an independent foundation as trust anchor) is designed to bind the operator, including the founder, to those commitments.
-
-Haven is currently in its design phase, working toward a small pilot with a single founding community. The documentation here is the design work itself, published as it matures: the design documents reflect settled direction, the working notes hold open questions honestly, and the research records the evidence the decisions rest on. If you’re new to the project, the essays in `docs/outreach/` are the intended entry point; the [architecture document](docs/design/civic-platform-architecture.md) is the canonical technical reference.
 
 ## What publishes here
 
