@@ -4,7 +4,7 @@
 
 Haven is a federated, end-to-end-encrypted platform built around communities rather than individual accounts — digital scaffolding for the institutions that hold civic life together. Neighborhood associations, schools, co-ops, congregations, and other real-world institutions get digital tools that fit how they actually work: in-person joining, community-defined governance, conversations no outside party can read, and no advertising or engagement optimization — structurally, not as policy. Haven is being designed in full before it is built. This repository holds the public design documentation, the research behind it, and the published writing introducing the project.
 
-**New to Haven?** [**Start here**](start-here.md) is a short orientation to the whole project — the core idea, what follows from it, and where to read next.
+**New to Haven?** [**Start here**](start-here.md) is a short orientation to the whole project — the core idea, what follows from it, and where to read next. For protocol- and cryptography-literate readers, [Technical architecture, in brief](civic-platform-technical-overview.md) is the full architecture, as fast as possible.
 
 ## The documents
 
