@@ -38,6 +38,7 @@ The living record of what the design cannot yet answer on its own.
 
 - [Open questions](docs/questions/haven-open-questions.md) — questions awaiting expert review, practitioner experience, or research that doesn’t exist yet, maintained as they’re asked, answered, and closed. Review briefs land alongside as they’re written. If one of these sits in your field, we’d like to hear from you — the essays explain the project; this document is where help is most useful.
 - [Fork detection and recovery (CR-M2)](docs/questions/cr-m2-fork-recovery-brief.md) — a review brief on the cost of the state a member must retain to self-heal from a fork under a single-writer, blind hub.
+- [Haven and the MIMI mainline: three divergences](docs/questions/fed1-mimi-contrast-brief.md) — a comparison brief on where Haven's blind-hub, BBS-credential, in-person-join design diverges from the MIMI working group's state-tracking hub and Minimal Metadata Rooms.
 
 ### Writing — `docs/outreach/`
 
