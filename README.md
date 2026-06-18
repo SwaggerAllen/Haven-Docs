@@ -55,6 +55,10 @@ Published essays introducing the project, in plain language.
 1. [Design-first methodology](docs/outreach/intro-article-5-methodology.md)
 1. [Founder succession](docs/outreach/intro-article-6-survival.md)
 
+**others**
+
+1. [The AI Essay](docs/outreach/haven-and-truth-article-v12)
+
 ## What publishes here
 
 The default is that everything publishes: design documents, working notes, open questions, review briefs, and the answers we receive — including unsettled directions and unflattering findings. Designing in the open is part of the methodology, and part of making the founder replaceable. Two narrow categories are withheld: planning notes that discuss specific people, communities, and organizations who haven’t agreed to appear in published documents, and production notes for public-facing media. One time-bound caveat: once real communities are running on Haven, a newly discovered question that bears on the security of deployed systems will get a disclosure-timing review before it lands in the public record — published after mitigation or a reasonable window, in line with standard responsible-disclosure practice. Everything published before deployment carries no such risk.
