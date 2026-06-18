@@ -55,9 +55,9 @@ Published essays introducing the project, in plain language.
 1. [Design-first methodology](docs/outreach/intro-article-5-methodology.md)
 1. [Founder succession](docs/outreach/intro-article-6-survival.md)
 
-**others**
+**Others**
 
-1. [The AI Essay](docs/outreach/haven-and-truth-article-v12)
+1. [The AI Essay](docs/outreach/haven-and-truth-article-v12.md)
 
 ## What publishes here
 
