@@ -57,7 +57,7 @@ Published essays introducing the project, in plain language.
 
 **Others**
 
-1. [The AI Essay](docs/outreach/haven-and-truth-article-v12.md)
+1. [The AI Essay](docs/outreach/haven-ai-and-truth-article-v12.md)
 
 ## What publishes here
 
