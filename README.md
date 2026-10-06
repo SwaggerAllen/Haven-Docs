@@ -67,3 +67,8 @@ The default is that everything publishes: design documents, working notes, open 
 A note on process: this documentation was drafted with substantial AI assistance. The architecture, the decisions, and the mistakes are the author’s.
 
 — Allen Strut, Strutco
+
+## License
+
+Haven-Docs is licensed under the [GNU Affero General Public
+License v3.0 or later](LICENSE) (AGPL-3.0-or-later).
